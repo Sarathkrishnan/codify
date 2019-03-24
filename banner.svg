@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="256mm"
+   height="86mm"
+   viewBox="0 0 256 86"
    version="1.1"
    id="svg4652"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="627.86744"
-     inkscape:cy="569.69471"
+     inkscape:cx="-437.86458"
+     inkscape:cy="88.592581"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,14 +43,14 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="150.00502,91.072094"
+       position="127.99203,198.94541"
        orientation="1,0"
-       id="guide4743"
+       id="guide830"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="150.00502,91.072096"
+       position="-1.5434815,43.030394"
        orientation="0,1"
-       id="guide4766"
+       id="guide832"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -61,14 +61,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-211)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -81,17 +82,17 @@
          y="341.62766"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';stroke-width:0.26458332" /></text>
     <rect
-       style="fill:#e94b35;fill-opacity:1;stroke:none;stroke-width:0.33184266"
+       style="fill:#e94b35;fill-opacity:1;stroke:none;stroke-width:0.33700937"
        id="rect4745"
        width="256"
-       height="83.38327"
-       x="21.937267"
-       y="164.58862"
+       height="86"
+       x="0"
+       y="211"
        inkscape:export-xdpi="500"
        inkscape:export-ydpi="500" />
     <g
        id="g4741"
-       transform="matrix(0.42124166,0,0,0.42124166,144.50775,56.408883)"
+       transform="matrix(0.76803044,0,0,0.76803044,118.39805,-19.035171)"
        inkscape:export-xdpi="500"
        inkscape:export-ydpi="500">
       <circle
